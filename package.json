@@ -1,0 +1,20 @@
+{
+  "name": "w03-noise-sphere-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "dat.gui": "0.7.7",
+    "noisejs": "2.1.0",
+    "three": "0.120.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
